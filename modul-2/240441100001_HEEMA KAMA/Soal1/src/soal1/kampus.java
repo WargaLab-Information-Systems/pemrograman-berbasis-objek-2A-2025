@@ -29,4 +29,5 @@ public class kampus {
     static boolean validasiNama(String nama){
         return !nama.matches(",*\\d.*");
     }
+//    tes
 }
