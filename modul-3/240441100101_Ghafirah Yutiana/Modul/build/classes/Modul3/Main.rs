@@ -1,0 +1,4 @@
+Mahasiswa
+MahasiswaReguler
+MahasiswaBeasiswa
+Main
