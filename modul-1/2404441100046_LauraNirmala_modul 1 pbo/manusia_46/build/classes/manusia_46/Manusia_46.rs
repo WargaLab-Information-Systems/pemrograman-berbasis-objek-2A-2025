@@ -1,2 +1,0 @@
-manusia_46.manusia_46
-manusia_46.manusia
