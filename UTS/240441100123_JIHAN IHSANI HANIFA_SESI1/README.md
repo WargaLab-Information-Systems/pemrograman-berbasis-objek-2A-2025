@@ -1,0 +1,2 @@
+Repository untuk praktikum PBO Kelas 2A 2025
+program ini membuat class induk yg bernama transaction dengan class turunan expense dan income di constructor itu menginisialisasi semua atribut dan ada method displayInfo() untuk menampilkan info method ini nanti akan digunakan ulang oleh class turunan 
