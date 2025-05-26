@@ -28,7 +28,7 @@ public class Soal1 {
         System.out.printf("%" + (40 + "----- Kegiatan Fani -----".length()/2) + "s%n", "----- Kegiatan Fani -----\n");
         beni.tampilkanSemua();
         
-        System.out.printf("%" + (40 + "----- Kegiatan Jani -----".length()/2) + "s%n", "----- Kegiatan Jani -----\n");
+        System.out.printf("%" + (40 + "---- Kegiatan Jani -----".length()/2) + "s%n", "----- Kegiatan Jani -----\n");
         jani.tampilkanSemua();
         
         

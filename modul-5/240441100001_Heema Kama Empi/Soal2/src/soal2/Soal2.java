@@ -17,7 +17,7 @@ public class Soal2 {
         MobilSport sport = new MobilSport();
         System.out.printf("%" + (40 + "----- Mobil Sport -----".length()/2) + "s%n", "----- Mobil Sport -----\n");
         sport.info();
-        
+        //
         MobilSedan sedan = new MobilSedan();
         System.out.printf("%" + (40 + "----- Mobil Sedan -----".length()/2) + "s%n", "----- Mobil Sedan -----\n");
         sedan.info();
