@@ -22,7 +22,7 @@ public class Soal2 {
         System.out.println("1. Mobil Sport");
         System.out.println("2. Mobil Sedan");
         System.out.println("0. Selesai dan operasikan semua mobil");
-
+//
         while (true) {
             System.out.print("Masukkan pilihan (1/2/0): ");
             pilihan = scanner.nextInt();
