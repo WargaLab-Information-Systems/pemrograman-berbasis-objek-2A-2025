@@ -1,0 +1,3 @@
+soal1.mahasiswa
+soal1.mahasiswareguler
+soal1.mahasiswabeasiswa
